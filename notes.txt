@@ -1,8 +1,7 @@
-Crystalyn Thompson
-link to linkedin, github
+
 
  maybe a picture of myself
-short intro 
+ 
  list of projects
  screenshots of projects
  links to online projects meal planner
@@ -12,3 +11,8 @@ short intro
 
 footer
 contact information number email linkedin
+
+
+
+
+how do i get the right links to github and linkedIn?
