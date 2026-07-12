@@ -1,18 +1,22 @@
-
+header with linkedIn, github
 
  maybe a picture of myself
+
+view and download my resumes, software engineer, and Microsoft office data entry
  
- list of projects
+ list of projects. game, meal planner
  screenshots of projects
  links to online projects meal planner
  supporting description of projects and my acievements in them
 
  download or view my files, word, excel
 
+
+
 footer
-contact information number email linkedin
+contact information, number, email linkedin, github, gitlab
 
 
-
+future freelance info
 
 how do i get the right links to github and linkedIn?
