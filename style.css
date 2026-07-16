@@ -27,6 +27,17 @@ img{
     height: auto;
 }
 
+#intro{
+    display: flex;
+    flex-direction: row;
+}
+
+#intro img{
+    max-width: 30%;
+    height: auto;
+    margin-left: 1em;
+    margin-right: 1em;
+}
 
 .project{
     display: flex;
