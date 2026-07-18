@@ -38,6 +38,8 @@ img{
     height: auto;
     margin-left: 1em;
     margin-right: 1em;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(150, 120, 143);
 }
 
 .project{
